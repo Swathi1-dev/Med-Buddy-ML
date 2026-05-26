@@ -1,0 +1,14 @@
+PROJECT_ROOT=relative path root
+LOG_DIR=directory for logs
+DATASET_PATH=dataset path
+MODEL_DIR=model directory
+
+DATASET_NAME=dataset_name
+LOG_NAME=log name
+MODEL_NAME=model name
+
+TARGET_COL=target column name
+TEST_SIZE= size of the test data
+RANDOM_STATE=random state number
+
+API_URL= API url 
